@@ -1,0 +1,17 @@
+ html, body{
+    height: 100%;
+    width: 100%
+ }
+ #bulb{
+    padding:50px 50px ;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 8px solid black;
+ }
+ button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+ }
